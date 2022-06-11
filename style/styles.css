@@ -1,0 +1,60 @@
+
+
+    body{
+        background-color:  #1F51FF;
+        color: white;
+        position: relative;
+        color: yellow;
+        padding:  1px;
+        text-align: center;
+        font-size: 30px;
+        -webkit-animation: colorchange 1s infinite;
+    animation: colorchange 0.5s infinite;
+    box-sizing: 30px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }   
+
+
+
+    
+       
+      
+
+
+ 
+    .video{
+        left: 530px;
+        bottom: -10px;
+        position: relative;
+    }
+
+    .gif{
+        position: relative;
+        width: 150px; 
+        height:150px ;
+        left: 40px;
+
+    }
+
+    footer{
+        color: yellow;
+        font-size: 16px;
+    }
+
+
+#menu{
+ height:100%;
+ transition:1s;
+  width:200px;
+margin-left:-200px;
+}
+        
+        button{
+        position:absolute;
+        right:-30px;    
+        }
+
+
+        
