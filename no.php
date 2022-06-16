@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="nl" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style/styles.css">
+</head>
+<body>
+    <header>
+<h2> i love pokemans</h2>
+
+
+<style>
+    @-webkit-keyframes colorchange {
+      0% {
+        background: #FF5733;
+      }
+      50% {
+        background: #1F51FF;
+      }
+      100% {
+        background: #FF5733;
+      }
+      }
+    @keyframes colorchange {
+      0% {
+        background: #1F51FF;
+      }
+      50% {
+        background: #FF5733;
+      }
+      100% {
+        background: #1F51FF;
+      }
+      }
+    </style>
+
+
+
+</header>
+
+<div class="gif">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+</div>
+
+
+
+<img src="../english project kevin smink/style/damain.png">
+
+
+<br>
+<div class="gif">
+  <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+  <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+  <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+  <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+  <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+  <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+  </div>
+
+<h6>
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+</h6>
+
+
+<H1>ENGLISH ENGLISH ENGLISH</H1><BR> <BR>
+
+
+
+
+  <img src="../english project kevin smink/style/212_f2.png"><img src="../english project kevin smink/style/212_f2.png">
+  <img src="../english project kevin smink/style/212_f2.png">
+
+<br>
+
+
+
+<BR>
+
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+<img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"> <br> <br> 
+
+
+
+
+
+<style> 
+ 
+
+
+ div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 1.35s;
+  animation-timing-function: linear;
+  animation-delay: 0.1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  color: yellow;
+}
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:blue; left:150px; top:100px;}
+  50%  {background-color:red; left:300px; top:150px;}
+  75%  {background-color:blue; left:150px; top:100px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+
+html { 
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  </style>
+  </head>
+  <body>
+<footer>
+  <h1></h1>
+  <div class="link"></div>
+  <div><a href="../english project kevin smink/extreemveelpages/1.html"> pokeman 1</a></div> <div><a href="../english project kevin smink/extreemveelpages/2.html"> pokeman 2</a></div>
+  <div><a href="../english project kevin smink/extreemveelpages/3.html"> pokeman 3</a></div> <div><a href="../english project kevin smink/extreemveelpages/4.html"> pokeman 4</a></div>
+  <div><a href="../english project kevin smink/extreemveelpages/5.html"> pokeman 5</a></div> <div><a href="../english project kevin smink/extreemveelpages/6.html"> pokeman 6</a></div></div> <div><a href="../english project kevin smink/extreemveelpages/7.html"> pokeman 7</a></div> <div><a href="../english project kevin smink/extreemveelpages/8.html"> pokeman 8</a></div></div><div><a href="../english project kevin smink/extreemveelpages/9.html"> pokeman 9</a></div> <div><a href="../english project kevin smink/extreemveelpages/10.html"> pokeman 10</a></div></div><div><a href="../english project kevin smink/extreemveelpages/11.html"> pokeman 11</a></div> <div><a href="../english project kevin smink/extreemveelpages/12.html"> pokeman 6</a></div></div><div><a href="../english project kevin smink/extreemveelpages/13.html"> pokeman 13</a></div> <div><a href="../english project kevin smink/extreemveelpages/14.html"> pokeman 14</a></div></div><div><a href="../english project kevin smink/extreemveelpages/15.html"> pokeman 15</a></div> <div><a href="../english project kevin smink/extreemveelpages/16.html"> pokeman 16</a></div></div><div><a href="../english project kevin smink/extreemveelpages/5.html"> pokeman 5</a></div> <div><a href="../english project kevin smink/extreemveelpages/17.html"> pokeman 17</a></div></div><div><a href="../english project kevin smink/extreemveelpages/19.html"> pokeman 19</a></div> <div><a href="../english project kevin smink/extreemveelpages/18.html"> pokeman 18</a>
+<div><a href="../english project kevin smink/extreemveelpages/20.html">pokeman 20</a>
+<div><a href="../english project kevin smink/extreemveelpages/21.html">pokeman 21</a>
+<div><a href="../english project kevin smink/extreemveelpages/22.html">pokeman 22</a>
+<div><a href="../english project kevin smink/extreemveelpages/23.html">pokeman 23</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/24.html">pokeman 24</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/25.html">pokeman 25</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/26.html">pokeman 26</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/27.html">pokeman 27</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/28.html">pokeman 28</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/29.html">pokeman 29</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/30.html">pokeman 30</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/31.html">pokeman 31</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/32.html">pokeman 32</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/33.html">pokeman 33</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/34.html">pokeman 34</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/35.html">pokeman 35</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/36.html">pokeman 36</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/37.html">pokeman 37</a></div>
+<div><a href="../english project kevin smink/extreemveelpages/38.html">pokeman 38</a></div>
+
+</div>
+
+
+<br>
+  <div class="gif">
+    <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+    <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+    <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+    <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+    <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+    <img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px"><img src="../english project kevin smink/style/scizor.gif" height="75px" width="75px">
+    </div>
+</body>
+</footer>
+</html>
